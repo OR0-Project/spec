@@ -1,2 +1,4 @@
-// Standard library (stack)
- - math_stack
+# HAL (hardware abstraction layer)
+
+# AL (abstraction layer)
+ + math_lib
